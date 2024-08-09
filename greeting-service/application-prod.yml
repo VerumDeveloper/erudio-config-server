@@ -8,5 +8,5 @@ management:
         include:
         - refresh
 greeting-service:
-  greeting: "Pronto"
+  greeting: "Samuel"
   default-value: "Mondo"
