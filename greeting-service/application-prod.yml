@@ -6,7 +6,7 @@ management:
     web:
       exposure:
         include:
-        - '*'
+        - refresh
 greeting-service:
   greeting: "Samuel xcardaldall"
   default-value: "Mondo"
